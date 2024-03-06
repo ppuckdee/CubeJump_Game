@@ -30,5 +30,3 @@ Developed with JavaScript and HTML5, CubeJump is accessible on most devices with
 ## Feedback
 
 We welcome your feedback to improve CubeJump. Please reach out with suggestions or issues.
-
-Thank you for playing CubeJump. How far can you go?
