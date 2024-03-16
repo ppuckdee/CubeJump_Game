@@ -2,6 +2,9 @@
 
 Welcome to **CubeJump**, a fast-paced runner game developed in JavaScript. Your goal is to navigate a cube through an endless path filled with obstacles, aiming for the highest score possible.
 
+## Link
+https://ppuckdee.github.io/CubeJump_Game/
+
 ## Gameplay
 
 - **Jump:** Tap the spacebar or screen to jump over obstacles.
